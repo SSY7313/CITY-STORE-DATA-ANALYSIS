@@ -12,12 +12,21 @@ The dataset consists of several key aspects:
 General data overview (REPORT OF DATA).
   
 - #### Chart vs Sales:
+- 
+![CHART VS SALES](https://github.com/user-attachments/assets/bcf5c41f-661d-4699-b232-d226774eb159)
+
 Sales data across different months, including total sales amount and order count.
 
 - #### MEN VS WOMEN:
+ 
+ ![MEN VS WOMEN](https://github.com/user-attachments/assets/44d9bfa1-3a3f-4ad4-8ce7-4ee03e95aa58)
+ 
 Comparison of sales between male and female customers.
 
 - #### Order Status:
+  
+   ![ORDER STATUS](https://github.com/user-attachments/assets/f889fefe-b7d6-4e16-9340-69baad559c34)
+  
 Breakdown of orders by their status (e.g., delivered, cancelled, refunded).
 
 - #### TOP 5 STATES:
